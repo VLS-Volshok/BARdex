@@ -1,4 +1,3 @@
-
 # Experience
 **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeDVOX4-UBoeex1utzUEvrLv9R67rEIZzWytLUSoakXlE3DfzKCV3JfVYfw7Jbj1wPsK_9KOXGcbIx8yTXuCxDRKYh92Rep3K0LP0VWauT2ukd1vZzwCXG7MMvpGwiJe3lPNg9Oow?key=RRYg0q0YUZNi7zUVot1i5eGA)**
 ## Summary
@@ -122,14 +121,10 @@ The experience gained by the attacker is scaled based on the following formula w
 The code calculates experience for an attacker when dealing non-collision damage to a valid target (not an ally). The experience gain depends on:
 
 1.  The relative power of the target and attacker.
-    
 2.  The proportion of the target's health lost during the attack.
 
 Which means:
 
 -   Attacking stronger targets yields more experience.
-    
 -   Damage proportional to the target's health determines experience gained
 
-```xml
-```
